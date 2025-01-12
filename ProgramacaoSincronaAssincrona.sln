@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Sincrona", "01Sincrona\01Sincrona.csproj", "{21276632-E316-4FBA-9AAF-F50BFF435867}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TaskProgAssincrona", "02TaskProgAssincrona\02TaskProgAssincrona.csproj", "{37458055-0393-4C45-8F7F-E7F0BACFA32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ValueTask", "03ValueTask\03ValueTask.csproj", "{AD9E5710-293C-45E8-9D2C-AD725A444A26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{37458055-0393-4C45-8F7F-E7F0BACFA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37458055-0393-4C45-8F7F-E7F0BACFA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37458055-0393-4C45-8F7F-E7F0BACFA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
