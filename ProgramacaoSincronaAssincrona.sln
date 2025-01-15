@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TaskProgAssincrona", "02T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03ValueTask", "03ValueTask\03ValueTask.csproj", "{AD9E5710-293C-45E8-9D2C-AD725A444A26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05TratamentoException1", "05TratamentoException1\05TratamentoException1.csproj", "{E4394C35-6B99-44D9-A769-E148D2886CD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9E5710-293C-45E8-9D2C-AD725A444A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4394C35-6B99-44D9-A769-E148D2886CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4394C35-6B99-44D9-A769-E148D2886CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4394C35-6B99-44D9-A769-E148D2886CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4394C35-6B99-44D9-A769-E148D2886CD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
